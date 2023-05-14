@@ -12,7 +12,7 @@ function LeftPanel(){
     return(
         <div className="left-panel">
             <TwitterIcon className='left-panel-twitter'/>
-            <LeftPanelOptions active Icon={HomeIcon} text="Home"/>
+            <LeftPanelOptions Icon={HomeIcon} text="Home"/>
             <LeftPanelOptions Icon={TagIcon} text="Explore"/>
             <LeftPanelOptions Icon={NotificationsIcon} text="Notifications"/>
             <LeftPanelOptions Icon={EmailIcon} text="Messages"/>
