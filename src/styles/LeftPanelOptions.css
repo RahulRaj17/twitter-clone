@@ -1,0 +1,27 @@
+.left-options{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.left-options > .MuiSvgIcon-root {
+    padding: 20px;
+}
+
+.left-options > h2{
+    font-weight: 700;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.left-options:hover{
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.left-options-active{
+    color: black;
+    background-color: white;
+    border-radius: 30px;
+}

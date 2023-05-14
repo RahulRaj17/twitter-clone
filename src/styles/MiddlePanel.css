@@ -1,0 +1,17 @@
+.middle-panel{
+    flex: 0.5;
+    border-right: 1px solid white;
+    overflow-y: scroll;
+}
+
+.middle-panel-header{
+    position: sticky;
+    background-color: black;
+    top: 0;
+    padding: 15px 20px;
+    border-bottom: 1px solid white;
+}
+
+.middle-panel::-webkit-scrollbar{
+    display: none;
+}

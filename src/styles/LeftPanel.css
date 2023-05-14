@@ -1,0 +1,27 @@
+.left-panel{
+    border-right: 1px solid white;
+    flex: 0.2;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.left-panel-button{
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 40px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.left-panel-button:hover{
+    color: #00acee;
+}
+
+.left-panel-twitter{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}

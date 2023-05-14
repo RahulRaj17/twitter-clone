@@ -1,0 +1,37 @@
+.tweet-box-input img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.tweet-box{
+    padding-bottom: 10px;
+    padding-right: 10px;
+    border-bottom: 1px solid white;
+}
+
+.tweet-box-input{
+    display: flex;
+    padding: 20px;
+}
+
+.tweet-box-input input{
+    margin-left: 20px;
+    font-size: 20px;
+    border: none;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.tweet-box-button{
+    background-color: #00acee;
+    color: white;
+    padding: 10px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 40px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 520px;
+}
