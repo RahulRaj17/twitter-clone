@@ -1,0 +1,25 @@
+.trending{
+    margin: 20px 0;
+    background-color: #191919;
+    border-radius: 20px;
+    width: 90%;
+    padding: 20px;
+}
+
+.trending p{
+    font-weight: 600;
+}
+
+.trending-item{
+    margin-top: 20px;
+}
+
+.trending-header{
+    color: gray;
+    font-size: 12px;
+}
+
+.trending-content{
+    font-size: 14px;
+    font-weight: 600;
+}
