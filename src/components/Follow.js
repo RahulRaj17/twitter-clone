@@ -6,6 +6,7 @@ function Follow(){
         <div className="follow">
             <p>Who to Follow</p>
             <Profile />
+            <Profile />
         </div>
     )
 }

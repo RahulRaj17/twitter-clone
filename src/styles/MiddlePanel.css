@@ -15,3 +15,20 @@
 .middle-panel::-webkit-scrollbar{
     display: none;
 }
+
+.middle-panel-seperator{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+
+.for-you:hover{
+    border-bottom: 5px solid #00acee;
+    cursor : pointer;
+}
+
+.following:hover{
+    border-bottom: 5px solid #00acee;
+    cursor : pointer;
+}

@@ -13,10 +13,8 @@
     border-radius: 40px;
     cursor: pointer;
     margin-top: 10px;
-}
-
-.left-panel-button:hover{
-    color: #00acee;
+    background-color: #00acee;
+    color: white;
 }
 
 .left-panel-twitter{
@@ -25,3 +23,9 @@
     margin-left: 20px;
     margin-bottom: 20px;
 }
+
+@media only screen and (max-width: 480px) {
+    .left-panel{
+        display: none;
+    }
+  }
